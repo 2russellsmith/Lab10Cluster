@@ -1,0 +1,251 @@
+numCPUs 1
+Worker 15637
+Worker 15636
+Worker 15642
+Worker 15647
+ID 15636
+[0mGET / [32m200 [0m13.567 ms - 490[0m
+[0mGET /javascripts/angularApp.js [32m200 [0m3.764 ms - 489[0m
+[0mGET /favicon.ico [33m404 [0m3.653 ms - 906[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m1.402 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.424 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m2.743 ms - 31[0m
+Service ID 15642
+Service ID 15647
+Service ID 15637
+[0mGET /pid [32m200 [0m31.812 ms - 31[0m
+[0mGET /pid [32m200 [0m27.788 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.410 ms - 31[0m
+[0mGET /pid [32m200 [0m32.244 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m25.844 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.351 ms - 31[0m
+Service ID 15642
+[0mGET /pid [32m200 [0m1.832 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.535 ms - 31[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m2.960 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.405 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.350 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.378 ms - 31[0m
+Service ID 15642
+[0mGET /pid [32m200 [0m0.752 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.775 ms - 31[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.656 ms - 31[0m
+Service ID 15636
+Service ID 15637
+[0mGET /pid [32m200 [0m0.297 ms - 31[0m
+[0mGET /pid [32m200 [0m1.939 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m1.365 ms - 31[0m
+Service ID 15642
+[0mGET /pid [32m200 [0m0.422 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.531 ms - 31[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.351 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.265 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.930 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.426 ms - 31[0m
+Service ID 15642
+[0mGET /pid [32m200 [0m0.516 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.329 ms - 31[0m
+Service ID 15647
+Service ID 15637
+[0mGET /pid [32m200 [0m0.342 ms - 31[0m
+[0mGET /pid [32m200 [0m1.535 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.853 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.676 ms - 31[0m
+Service ID 15642
+[0mGET /pid [32m200 [0m0.415 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.739 ms - 31[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.783 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m3.053 ms - 31[0m
+Service ID 15642
+[0mGET /pid [32m200 [0m0.488 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.577 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m1.682 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m1.090 ms - 31[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.443 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.464 ms - 31[0m
+Service ID 15642
+[0mGET /pid [32m200 [0m0.374 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.380 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.570 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.656 ms - 31[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.361 ms - 31[0m
+Service ID 15642
+[0mGET /pid [32m200 [0m0.369 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.696 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.520 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m2.128 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m2.109 ms - 31[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.360 ms - 31[0m
+Service ID 15642
+[0mGET /pid [32m200 [0m0.351 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.498 ms - 31[0m
+Service ID 15637
+Service ID 15636
+[0mGET /pid [32m200 [0m0.352 ms - 31[0m
+[0mGET /pid [32m200 [0m0.876 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.281 ms - 31[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.370 ms - 31[0m
+Service ID 15642
+[0mGET /pid [32m200 [0m1.385 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.391 ms - 31[0m
+Service ID 15636
+Service ID 15637
+[0mGET /pid [32m200 [0m3.351 ms - 31[0m
+[0mGET /pid [32m200 [0m1.844 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m4.192 ms - 31[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.482 ms - 31[0m
+Service ID 15642
+[0mGET /pid [32m200 [0m2.742 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.697 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.652 ms - 31[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m2.568 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m4.351 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m1.253 ms - 31[0m
+Service ID 15642
+[0mGET /pid [32m200 [0m1.414 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.365 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.403 ms - 31[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.790 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.369 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.279 ms - 31[0m
+Service ID 15642
+[0mGET /pid [32m200 [0m0.598 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.660 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.556 ms - 31[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.509 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.404 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m2.032 ms - 31[0m
+Service ID 15642
+[0mGET /pid [32m200 [0m0.633 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.372 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.263 ms - 31[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.570 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.598 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.280 ms - 31[0m
+Service ID 15642
+[0mGET /pid [32m200 [0m0.385 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.299 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.306 ms - 31[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.318 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m1.058 ms - 31[0m
+Service ID 15636
+[0mGET /pid [32m200 [0m0.300 ms - 31[0m
+Service ID 15642
+[0mGET /pid [32m200 [0m1.351 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m0.299 ms - 31[0m
+Service ID 15637
+[0mGET /pid [32m200 [0m2.453 ms - 31[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.348 ms - 31[0m
+ID 15647
+[0mGET / [32m200 [0m6.138 ms - 490[0m
+[0mGET /javascripts/angularApp.js [32m200 [0m3.009 ms - 489[0m
+[0mGET /favicon.ico [33m404 [0m3.031 ms - 906[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.468 ms - 31[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m1.187 ms - 31[0m
+[0mGET /favicon.ico [33m404 [0m1.693 ms - 906[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.446 ms - 31[0m
+[0mGET /favicon.ico [33m404 [0m2.239 ms - 906[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m1.343 ms - 31[0m
+[0mGET /favicon.ico [33m404 [0m1.205 ms - 906[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.689 ms - 31[0m
+[0mGET /favicon.ico [33m404 [0m0.867 ms - 906[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.471 ms - 31[0m
+[0mGET /favicon.ico [33m404 [0m3.586 ms - 906[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.480 ms - 31[0m
+[0mGET /favicon.ico [33m404 [0m1.270 ms - 906[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.496 ms - 31[0m
+[0mGET /favicon.ico [33m404 [0m1.206 ms - 906[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.413 ms - 31[0m
+[0mGET /favicon.ico [33m404 [0m1.225 ms - 906[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.444 ms - 31[0m
+[0mGET /favicon.ico [33m404 [0m3.289 ms - 906[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.503 ms - 31[0m
+[0mGET /favicon.ico [33m404 [0m1.250 ms - 906[0m
+Service ID 15647
+[0mGET /pid [32m200 [0m0.835 ms - 31[0m
+[0mGET /favicon.ico [33m404 [0m0.761 ms - 906[0m
+ID 15647
+[0mGET / [36m304 [0m4.692 ms - -[0m
+[0mGET /javascripts/angularApp.js [32m200 [0m1.187 ms - 489[0m
